@@ -1,2 +1,5 @@
 # Day2-Task
-comparing 5 different prompts for the same task to learn how prompt quality affects LLM output.
+Comparison:
+The prompt with Constraints gave the best result.
+why?
+The other prompts produced long outputs with multiple templates and extra tips — useful, but not ready to send. The Constraints prompt gave one clean, focused email because the word limit forced the model to skip the extra options and just deliver the essentials: interest in software development, Python experience, and asking about openings.
